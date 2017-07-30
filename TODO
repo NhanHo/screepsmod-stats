@@ -1,0 +1,7 @@
+auth-lock APIs
+    user/overview
+    game/room-overview
+    game/map-stats
+
+owner-lock
+    game/room-overview
